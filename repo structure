@@ -1,0 +1,10 @@
+sql_ab_test_metrics/
+├─ data/
+│  ├─ users.csv
+│  ├─ assignments.csv
+│  └─ events.csv
+├─ queries.sql
+├─ generate_data.py
+├─ README.md
+├─ requirements.txt
+└─ .gitignore
